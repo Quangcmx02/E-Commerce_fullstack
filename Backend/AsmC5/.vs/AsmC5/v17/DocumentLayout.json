@@ -1,0 +1,2595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\AsmC5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\response\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\response\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tranx\\Downloads\\g\u1EEDi b\u00E0i\\asmc5\\AsmC5\\AsmC5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooditemdtos\\combofooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooditemdtos\\combofooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooddetailsdtos\\combofooditemdetailsforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooddetailsdtos\\combofooditemdetailsforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\orderdtos\\orderforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\orderdtos\\orderforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\migrations\\20250225063712_ddj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\migrations\\20250225063712_ddj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\categorydtos\\categoryforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\categorydtos\\categoryforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\categorydtos\\categoryforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\categorydtos\\categoryforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\cartitemdtos\\cartitemforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\cartitemdtos\\cartitemforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\cartitemdtos\\cartitemforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\cartitemdtos\\cartitemforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\cartitemdtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\cartitemdtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\cartdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\cartdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\comboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\comboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\comborepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\comborepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combodtos\\combodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combodtos\\combodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooditemdtos\\combofooditemviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooditemdtos\\combofooditemviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\combocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\combocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\icomboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\icomboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combodtos\\comboforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combodtos\\comboforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\orderdetaildtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\orderdetaildtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\migrations\\20250224044313_sjsk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\migrations\\20250224044313_sjsk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\migrations\\20250224051712_io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\migrations\\20250224051712_io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043929_sks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224043929_sks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043726_jos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224043726_jos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043333_ksks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224043333_ksks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043040_dkdkdke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224043040_dkdkdke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224042716_djd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224042716_djd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224042117_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224042117_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\combofooditemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\combofooditemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224040818_sj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224040818_sj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224040425_kfms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224040425_kfms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035703_fk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224035703_fk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035203_ke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224035203_ke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035041_jw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224035041_jw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034904_aq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224034904_aq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034653_jedk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224034653_jedk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034427_gd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250224034427_gd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\cartdtos\\cartforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\cartdtos\\cartforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\combofooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\combofooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\combofooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\combofooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\orderforuserrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\orderforuserrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\orderrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\orderrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combodtos\\comboforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combodtos\\comboforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooditemdtos\\combofooditemforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooditemdtos\\combofooditemforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooddetailsdtos\\combofooditemdetailsforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooddetailsdtos\\combofooditemdetailsforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\combofooditemdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\combofooditemdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\icombofooditemdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\icombofooditemdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\icombofooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\icombofooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\icomborepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\icomborepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooditemdtos\\combofooditemforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooditemdtos\\combofooditemforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\combofooddetailsdtos\\combofooditemdetailsfto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\combofooddetailsdtos\\combofooditemdetailsfto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\persistence\\repositories\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\persistence\\repositories\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\fooditemdtos\\fooditemforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\fooditemdtos\\fooditemforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\fooditemdtos\\fooditemforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\fooditemdtos\\fooditemforcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\fooditemdtos\\fooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\fooditemdtos\\fooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\authdtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\authdtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\cartrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\cartrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\ordernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\newsnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\newsnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\newsdetailnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\newsdetailnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\cartnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\cartnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\addressnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\addressnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\notfound\\cartitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\notfound\\cartitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\exceptions\\unauthorized\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\exceptions\\unauthorized\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\fillters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\fillters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\userdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\userdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\userrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\userrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\userdtos\\userupdateforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\userdtos\\userupdateforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\userdtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\userdtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\comborequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\comborequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\fooditemrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\fooditemrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\categoryrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\categoryrequestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222102053_kdkdk\u0111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250222102053_kdkdk\u0111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222101701_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250222101701_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222101411_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250222101411_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\authdtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\authdtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\userdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\userdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\tokendtos\\logingoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\tokendtos\\logingoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\tokendtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\tokendtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\models\\claimsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\models\\claimsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\models\\googleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\models\\googleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\models\\googleauthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\models\\googleauthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\fooditemdtos\\fooditemforupdatequantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\fooditemdtos\\fooditemforupdatequantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\asmc5.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\asmc5.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\common\\request\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\common\\request\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\orderdtos\\orderforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\orderdtos\\orderforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\dtos\\cartdtos\\cartforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\dtos\\cartdtos\\cartforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033552_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250217033552_k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033500_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250217033500_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033343_kkfkfe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250217033343_kkfkfe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Data\\Migrations\\20250217032730_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Data\\Migrations\\20250217032730_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Data\\Migrations\\20250217023700_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Data\\Migrations\\20250217023700_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|d:\\vs\\asmc5\\asmc5\\asmc5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE6A9A11-C68A-4B94-AD21-AAC186146BC6}|AsmC5\\AsmC5.csproj|solutionrelative:asmc5\\asmc5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013805_dj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213013805_dj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013701_nd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213013701_nd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013623_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213013623_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013403_ow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213013403_ow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213012454_ann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213012454_ann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213012331_jfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213012331_jfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213011754_jfnjd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsmC5\\Migrations\\20250213011754_jfnjd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Response\\Token.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Response\\Token.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Response\\Token.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Response\\Token.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:47:15.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Response\\ApiResponse.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:58:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\appsettings.json",
+              "RelativeDocumentMoniker": "AsmC5\\appsettings.json",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\appsettings.json",
+              "RelativeToolTip": "AsmC5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T09:33:25.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Program.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Program.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Program.cs",
+              "RelativeToolTip": "AsmC5\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:24:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AsmC5\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:27:59.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:35:35.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IOrderService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\IOrderService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IOrderService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:30:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\CartService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\CartService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\CartService.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAWwOcBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:04:08.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComboFoodItemDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:09:43.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComboFoodItemDetailsFOrCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:07:59.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:52:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tranx\\Downloads\\g\u1EEDi b\u00E0i\\asmc5\\AsmC5\\AsmC5\\Program.cs",
+              "ToolTip": "C:\\Users\\tranx\\Downloads\\g\u1EEDi b\u00E0i\\asmc5\\AsmC5\\AsmC5\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:37:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:44:18.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDtos\\OrderForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\OrderDtos\\OrderForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDtos\\OrderForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\OrderDtos\\OrderForCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:41:24.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CategoryDtos\\CategoryForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CategoryDtos\\CategoryForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CategoryDtos\\CategoryForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CategoryDtos\\CategoryForCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:37:06.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\CartController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAWwMIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:21:12.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:34:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\Category.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\Category.cs",
+              "RelativeToolTip": "AsmC5\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:38:32.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250225063712_ddj.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250225063712_ddj.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250225063712_ddj.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250225063712_ddj.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250225063712_ddj.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:37:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryForUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CategoryDtos\\CategoryForUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CategoryDtos\\CategoryForUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CategoryDtos\\CategoryForUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CategoryDtos\\CategoryForUpdateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:38:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:15:26.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\CartRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:03:35.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:00:02.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\LoggerService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\LoggerService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\LoggerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:54:15.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItemForUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartItemDtos\\CartItemForUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CartItemDtos\\CartItemForUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartItemDtos\\CartItemForUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CartItemDtos\\CartItemForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:44:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartItemDtos\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CartItemDtos\\CartItemDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartItemDtos\\CartItemDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CartItemDtos\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:28:00.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartItemForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartItemDtos\\CartItemForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CartItemDtos\\CartItemForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartItemDtos\\CartItemForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CartItemDtos\\CartItemForCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:38:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\CartItemRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\CartItemRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\CartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:09:17.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartDtos\\CartDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CartDtos\\CartDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartDtos\\CartDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CartDtos\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:19:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ICartService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\ICartService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ICartService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\ICartService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:03:48.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ComboController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\ComboController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\ComboController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\ComboController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\ComboController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:40:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ComboRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\ComboRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\ComboRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\ComboRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\ComboRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:30:46.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ComboDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboDtos\\ComboDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboDtos\\ComboDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboDtos\\ComboDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboDtos\\ComboDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:11:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "AsmC5\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAswMEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:33:15.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ComboService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\ComboService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\ComboService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\ComboService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\ComboService.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAmwOkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:16:26.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ComboFoodItemViewDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemViewDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemViewDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemViewDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:18:32.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFoodItemService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IFoodItemService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\IFoodItemService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IFoodItemService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\IFoodItemService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:12:32.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FoodItemController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\FoodItemController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\FoodItemController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\FoodItemController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\FoodItemController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:54:56.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IComboService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IComboService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\IComboService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IComboService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\IComboService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:17:17.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\FoodItemService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\FoodItemService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\FoodItemService.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAuwOcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:12:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ComboForUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboDtos\\ComboForUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboDtos\\ComboForUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboDtos\\ComboForUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboDtos\\ComboForUpdateDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:12:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AsmC5\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwGYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:08:29.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\UserService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\UserService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\UserService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAJEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:39:00.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\AuthService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\AuthService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAIA0wFABAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:29:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\Cart.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\Cart.cs",
+              "RelativeToolTip": "AsmC5\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:06:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AsmC5\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:37:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\IAuthService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IAuthService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\IAuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:23:32.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\Order.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\Order.cs",
+              "RelativeToolTip": "AsmC5\\Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:37:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\OrderDtos\\OrderDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDtos\\OrderDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\OrderDtos\\OrderDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:46:28.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250224051712_io.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224051712_io.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224051712_io.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224051712_io.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224051712_io.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:17:12.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\OrderService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\OrderService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\OrderService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:16:49.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "AsmC5\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:37:39.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDetailDtos\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\OrderDetailDtos\\OrderDetailDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDetailDtos\\OrderDetailDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\OrderDetailDtos\\OrderDetailDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:46:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250224044313_sjsk.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224044313_sjsk.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224044313_sjsk.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224044313_sjsk.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224044313_sjsk.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:43:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAWwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:58:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\OrderDetailService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\OrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:13:52.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DependencyInjection.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DependencyInjection.cs",
+              "RelativeToolTip": "AsmC5\\DependencyInjection.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:10:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:17:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250224043929_sks.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043929_sks.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224043929_sks.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043929_sks.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224043929_sks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:39:29.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\CartItem.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\CartItem.cs",
+              "RelativeToolTip": "AsmC5\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:12:04.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\Combo.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\Combo.cs",
+              "RelativeToolTip": "AsmC5\\Models\\Combo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:14:27.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250224043726_jos.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043726_jos.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224043726_jos.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043726_jos.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224043726_jos.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAABkBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:37:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250224043333_ksks.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043333_ksks.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224043333_ksks.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043333_ksks.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224043333_ksks.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAWwCoBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:33:33.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250224043040_dkdkdke.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043040_dkdkdke.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224043040_dkdkdke.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224043040_dkdkdke.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224043040_dkdkdke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:30:40.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250224042716_djd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224042716_djd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224042716_djd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224042716_djd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224042716_djd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:27:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250224042117_a.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224042117_a.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224042117_a.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224042117_a.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224042117_a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:21:17.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ComboFoodItemDetail.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\ComboFoodItemDetail.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\ComboFoodItemDetail.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\ComboFoodItemDetail.cs",
+              "RelativeToolTip": "AsmC5\\Models\\ComboFoodItemDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:59:52.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250224040818_sj.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224040818_sj.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224040818_sj.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224040818_sj.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224040818_sj.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:08:18.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250224034653_jedk.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034653_jedk.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224034653_jedk.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034653_jedk.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224034653_jedk.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:46:54.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250224040425_kfms.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224040425_kfms.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224040425_kfms.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224040425_kfms.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224040425_kfms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:04:25.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250224034904_aq.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034904_aq.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224034904_aq.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034904_aq.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224034904_aq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:49:04.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250224035703_fk.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035703_fk.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224035703_fk.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035703_fk.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224035703_fk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:57:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250224035041_jw.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035041_jw.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224035041_jw.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035041_jw.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224035041_jw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:50:41.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250224035203_ke.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035203_ke.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224035203_ke.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224035203_ke.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224035203_ke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:52:03.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250224034427_gd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034427_gd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250224034427_gd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250224034427_gd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250224034427_gd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:44:27.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CartForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartDtos\\CartForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CartDtos\\CartForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartDtos\\CartForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CartDtos\\CartForCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:34:10.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:03:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:37:39.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ComboFoodItem.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\ComboFoodItem.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\ComboFoodItem.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\ComboFoodItem.cs",
+              "RelativeToolTip": "AsmC5\\Models\\ComboFoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T04:15:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Models\\FoodItem.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Models\\FoodItem.cs",
+              "RelativeToolTip": "AsmC5\\Models\\FoodItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:58:59.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ComboFoodItemRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\ComboFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\ComboFoodItemRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\ComboFoodItemRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\ComboFoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:06:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:20:38.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:22:49.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "OrderForUserRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\OrderForUserRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\OrderForUserRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\OrderForUserRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\OrderForUserRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:42:37.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "OrderRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\OrderRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\OrderRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\OrderRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\OrderRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:33:46.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ComboForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboDtos\\ComboForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboDtos\\ComboForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboDtos\\ComboForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboDtos\\ComboForCreateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:12:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\IUserService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:38:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\SessionService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\SessionService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:22:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ISessionService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\ISessionService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ISessionService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:22:21.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ComboFoodItemForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:10:25.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ComboFoodItemDetailsFOrUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFOrUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:08:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\ICategoryService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:54:55.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ComboFoodItemDetailRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\ComboFoodItemDetailRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\ComboFoodItemDetailRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\ComboFoodItemDetailRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\ComboFoodItemDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:08:30.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IComboFoodItemDetailRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IComboFoodItemDetailRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IComboFoodItemDetailRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IComboFoodItemDetailRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IComboFoodItemDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:09:33.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\ICartItemRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\ICartItemRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:12:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IComboFoodItemRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IComboFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IComboFoodItemRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IComboFoodItemRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IComboFoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:07:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:46:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Services\\CategoryService.cs",
+              "RelativeToolTip": "AsmC5\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAWwEYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:09:44.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "IComboRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IComboRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IComboRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IComboRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IComboRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:14:35.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ComboFoodItemForUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodItemDtos\\ComboFoodItemForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:10:56.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ComboFoodItemDetailsFto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\ComboFoodDetailsDtos\\ComboFoodItemDetailsFto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:07:01.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "FoodItemRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\FoodItemRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Persistence\\Repositories\\FoodItemRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Persistence\\Repositories\\FoodItemRepository.cs",
+              "RelativeToolTip": "AsmC5\\Persistence\\Repositories\\FoodItemRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:11:31.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "FoodItemForUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemForUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemForUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemForUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemForUpdateDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:03:10.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "FoodItemForCreateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemForCreateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemForCreateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemForCreateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemForCreateDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:21:36.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IFoodItemRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IFoodItemRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IFoodItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:24:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "FoodItemDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:18:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:47:12.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Contracts\\ILoggerService.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Contracts\\ILoggerService.cs",
+              "RelativeToolTip": "AsmC5\\Contracts\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:10:22.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "SignUpDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\AuthDtos\\SignUpDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\AuthDtos\\SignUpDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\AuthDtos\\SignUpDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\AuthDtos\\SignUpDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:13:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\UserDtos\\UserDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UserDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\UserDtos\\UserDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:09:36.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "CartRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\CartRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\CartRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\CartRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\CartRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:18:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:24:20.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\UserNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\UserNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:22:06.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\ProductNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\ProductNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:23:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "OrderNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\OrderNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\OrderNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\OrderNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\OrderNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:23:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\NotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\NotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:24:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "NewsNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\NewsNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\NewsNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\NewsNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\NewsNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:24:24.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "NewsDetailNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\NewsDetailNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\NewsDetailNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\NewsDetailNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\NewsDetailNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:24:37.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CategoryNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\CategoryNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:26:08.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "CartNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\CartNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\CartNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\CartNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\CartNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:25:53.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "AddressNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\AddressNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\AddressNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\AddressNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\AddressNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:25:26.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "CartItemNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\CartItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\NotFound\\CartItemNotFoundException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\NotFound\\CartItemNotFoundException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\NotFound\\CartItemNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:25:46.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\Unauthorized\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Exceptions\\Unauthorized\\UnauthorizedException.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Exceptions\\Unauthorized\\UnauthorizedException.cs",
+              "RelativeToolTip": "AsmC5\\Exceptions\\Unauthorized\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:21:21.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "AsmC5\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:38:10.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "ValidationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Fillters\\ValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Fillters\\ValidationFilterAttribute.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Fillters\\ValidationFilterAttribute.cs",
+              "RelativeToolTip": "AsmC5\\Fillters\\ValidationFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:39:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\UserDtos\\UpdateProfileDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UpdateProfileDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\UserDtos\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:09:12.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "UserRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\UserRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\UserRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\UserRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\UserRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:06:19.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\UserDtos\\UserProfileDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UserProfileDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\UserDtos\\UserProfileDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:59:44.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\RequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\RequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\RequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:03:22.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "UserUpdateForAdmin.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UserUpdateForAdmin.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\UserDtos\\UserUpdateForAdmin.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\UserUpdateForAdmin.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\UserDtos\\UserUpdateForAdmin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:51:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "ComboRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\ComboRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\ComboRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\ComboRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\ComboRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:20:11.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "FoodItemRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\FoodItemRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\FoodItemRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\FoodItemRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\FoodItemRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:27:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "CategoryRequestParameters.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\CategoryRequestParameters.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\CategoryRequestParameters.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\CategoryRequestParameters.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\CategoryRequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:04:13.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20250222102053_kdkdk\u0111.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222102053_kdkdk\u0111.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250222102053_kdkdk\u0111.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222102053_kdkdk\u0111.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250222102053_kdkdk\u0111.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:20:53.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "20250222101701_kd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222101701_kd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250222101701_kd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222101701_kd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250222101701_kd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:17:01.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "20250222101411_k.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222101411_k.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250222101411_k.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250222101411_k.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250222101411_k.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:14:11.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "SignInDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\AuthDtos\\SignInDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\AuthDtos\\SignInDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\AuthDtos\\SignInDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\AuthDtos\\SignInDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:12:10.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\UserDtos\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\UserDtos\\ChangePasswordDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\UserDtos\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:09:56.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "LoginGoogleDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\TokenDtos\\LoginGoogleDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\TokenDtos\\LoginGoogleDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\TokenDtos\\LoginGoogleDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\TokenDtos\\LoginGoogleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:29:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\TokenDtos\\TokenDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\TokenDtos\\TokenDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\TokenDtos\\TokenDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\TokenDtos\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:28:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "ClaimsBuilder.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Models\\ClaimsBuilder.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Models\\ClaimsBuilder.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Models\\ClaimsBuilder.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Models\\ClaimsBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:23:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "GoogleUserInfo.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Models\\GoogleUserInfo.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Models\\GoogleUserInfo.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Models\\GoogleUserInfo.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Models\\GoogleUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:47:41.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "GoogleAuthSettings.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Models\\GoogleAuthSettings.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Models\\GoogleAuthSettings.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Models\\GoogleAuthSettings.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Models\\GoogleAuthSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:31:43.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "FoodItemFOrUpdateQuantityDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemFOrUpdateQuantityDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemFOrUpdateQuantityDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\FoodItemDtos\\FoodItemFOrUpdateQuantityDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\FoodItemDtos\\FoodItemFOrUpdateQuantityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:04:31.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "AsmC5.http",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\AsmC5.http",
+              "RelativeDocumentMoniker": "AsmC5\\AsmC5.http",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\AsmC5.http",
+              "RelativeToolTip": "AsmC5\\AsmC5.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-20T09:31:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\PagedList.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\PagedList.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\PagedList.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\PagedList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:01:28.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\MetaData.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Common\\Request\\MetaData.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Common\\Request\\MetaData.cs",
+              "RelativeToolTip": "AsmC5\\Common\\Request\\MetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:00:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "OrderForUpdate.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDtos\\OrderForUpdate.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\OrderDtos\\OrderForUpdate.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\OrderDtos\\OrderForUpdate.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\OrderDtos\\OrderForUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:19:59.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "CartForUpdateDto.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartDtos\\CartForUpdateDto.cs",
+              "RelativeDocumentMoniker": "AsmC5\\DTOs\\CartDtos\\CartForUpdateDto.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\DTOs\\CartDtos\\CartForUpdateDto.cs",
+              "RelativeToolTip": "AsmC5\\DTOs\\CartDtos\\CartForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:18:06.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "20250217033343_kkfkfe.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033343_kkfkfe.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250217033343_kkfkfe.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033343_kkfkfe.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250217033343_kkfkfe.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:33:43.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "20250217033500_f.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033500_f.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250217033500_f.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033500_f.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250217033500_f.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:35:00.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "20250217033552_k.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033552_k.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250217033552_k.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250217033552_k.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250217033552_k.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:35:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "20250217032730_m.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Data\\Migrations\\20250217032730_m.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Data\\Migrations\\20250217032730_m.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Data\\Migrations\\20250217032730_m.cs",
+              "RelativeToolTip": "AsmC5\\Data\\Migrations\\20250217032730_m.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:27:30.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "20250217023700_f.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Data\\Migrations\\20250217023700_f.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Data\\Migrations\\20250217023700_f.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Data\\Migrations\\20250217023700_f.cs",
+              "RelativeToolTip": "AsmC5\\Data\\Migrations\\20250217023700_f.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:37:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "20250213013805_dj.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013805_dj.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213013805_dj.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013805_dj.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213013805_dj.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:38:05.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "AsmC5",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\AsmC5.csproj",
+              "RelativeDocumentMoniker": "AsmC5\\AsmC5.csproj",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\AsmC5.csproj",
+              "RelativeToolTip": "AsmC5\\AsmC5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T10:04:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "20250213013701_nd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013701_nd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213013701_nd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013701_nd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213013701_nd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:37:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "20250213013623_kd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013623_kd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213013623_kd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013623_kd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213013623_kd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:36:24.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 158,
+              "Title": "20250213013403_ow.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013403_ow.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213013403_ow.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213013403_ow.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213013403_ow.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:34:04.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 159,
+              "Title": "20250213012454_ann.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213012454_ann.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213012454_ann.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213012454_ann.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213012454_ann.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:24:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 160,
+              "Title": "20250213012331_jfd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213012331_jfd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213012331_jfd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213012331_jfd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213012331_jfd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:23:31.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 161,
+              "Title": "20250213011754_jfnjd.cs",
+              "DocumentMoniker": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213011754_jfnjd.cs",
+              "RelativeDocumentMoniker": "AsmC5\\Migrations\\20250213011754_jfnjd.cs",
+              "ToolTip": "D:\\VS\\AsmC5\\AsmC5\\Migrations\\20250213011754_jfnjd.cs",
+              "RelativeToolTip": "AsmC5\\Migrations\\20250213011754_jfnjd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:17:54.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

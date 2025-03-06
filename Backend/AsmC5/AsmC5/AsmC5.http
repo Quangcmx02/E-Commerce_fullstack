@@ -1,0 +1,10 @@
+@AsmC5_HostAddress = https://localhost:7094
+
+GET {{AsmC5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{AsmC5_HostAddress}}/weatherforecast
+
+###
